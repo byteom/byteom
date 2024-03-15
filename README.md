@@ -12,6 +12,9 @@
 
 - ⚡ Fun fact **I think I am Unpredictable.**
 
+- ## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
