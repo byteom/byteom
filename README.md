@@ -4,7 +4,7 @@
 <img align ="right" alt="coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byteom&label=Profile%20views&color=0e75b6&style=flat" alt="byteom" /> </p>
 
-<p align="left"> <a href="https://twitter.com/om_singh_01" target="blank"><img src="https://img.shields.io/twitter/follow/ombyte?logo=twitter&style=for-the-badge" alt="om_singh_01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/byteom" target="blank"><img src="https://img.shields.io/twitter/follow/ombyte?logo=twitter&style=for-the-badge" alt="om_singh_01" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks ,Fullstack ,Cloud .**
 
