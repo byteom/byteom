@@ -38,7 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=byteom&" alt="byteom" /></p>
 
-This is my readme file , recreate this file make it more amazing make it more advance add 
-
-skill - remove python
-aadd - react, tailwind , devops,git ,github,nodejs,docker,genAi,
+ 
