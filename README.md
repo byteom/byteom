@@ -28,47 +28,79 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 🌐 **Connect with me:**
+
 <p align="left">
-  <a href="https://dev.to/byteom" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/dev.png" alt="dev.to" height="30" width="40" /></a>
-  <a href="https://twitter.com/ombyte" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/twitter-squared.png" alt="twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/byteom" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/aroh_singh_rathour" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="instagram" height="30" width="40" /></a>
-  <a href="https://medium.com/@byteom" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="medium" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/byteom" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/geeksforgeeks.png" alt="geeksforgeeks" height="30" width="40" /></a>
+  <a href="https://dev.to/byteom" target="_blank" style="margin-right:10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/dev.png" alt="dev.to" height="30" width="30"/>
+  </a>
+  <a href="https://twitter.com/ombyte" target="_blank" style="margin-right:10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitter-squared.png" alt="twitter" height="30" width="30"/>
+  </a>
+  <a href="https://linkedin.com/in/byteom" target="_blank" style="margin-right:10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="linkedin" height="30" width="30"/>
+  </a>
+  <a href="https://instagram.com/aroh_singh_rathour" target="_blank" style="margin-right:10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" alt="instagram" height="30" width="30"/>
+  </a>
+  <a href="https://medium.com/@byteom" target="_blank" style="margin-right:10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/medium-monogram.png" alt="medium" height="30" width="30"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/byteom" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/geeksforgeeks.png" alt="geeksforgeeks" height="30" width="30"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### 🛠️ **Languages and Tools:**
+
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" style="margin-right:10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/react-native.png" alt="React" height="30" width="30"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" style="margin-right:10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/tailwind-css.png" alt="TailwindCSS" height="30" width="30"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" style="margin-right:10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/amazon-web-services.png" alt="AWS" height="30" width="30"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" style="margin-right:10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/nodejs.png" alt="Node.js" height="30" width="30"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right:10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/javascript-logo.png" alt="JavaScript" height="30" width="30"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" style="margin-right:10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/docker.png" alt="Docker" height="30" width="30"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" style="margin-right:10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/git.png" alt="Git" height="30" width="30"/>
+  </a>
+  <a href="https://github.com/" target="_blank" style="margin-right:10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" height="30" width="30"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" style="margin-right:10px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/google-cloud.png" alt="Google Cloud" height="30" width="30"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=byteom&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=byteom&show_icons=true&locale=en" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=byteom&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=byteom&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="45%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byteom&" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byteom&theme=dark" alt="GitHub Streak" width="45%" />
 </p>
 
 ---
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=byteom&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=byteom&margin-w=15&margin-h=15&theme=darkhub" alt="GitHub Trophy" />
 </p>
 
 ---
@@ -81,7 +113,6 @@
 ---
 
 ### 📝 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
