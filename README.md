@@ -1,41 +1,93 @@
-<h1 align="center">Hi 👋, I'm Om Singh</h1>
-<h3 align="center">A passionate full-stack and cloud developer from India.</h3>
- 
-<img align ="right" alt="coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=byteom&label=Profile%20views&color=0e75b6&style=flat" alt="byteom" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/ombyte" target="blank"><img src="https://img.shields.io/twitter/follow/ombyte?logo=twitter&style=for-the-badge" alt="om_singh_01" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:22D3EE&height=220&section=header&text=Hi%20There,%20I'm%20Om%20Singh%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Cloud%20Developer%20%7C%20India&descAlignY=55&descSize=18&descColor=E5E7EB" width="100%"/>
 
-- 🌱 I’m currently learning **Frameworks ,Fullstack ,Cloud .**
+<a href="https://github.com/byteom">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Cloud+%26+DevOps+Enthusiast+(AWS);Data+Structures+%26+Algorithms;Always+Shipping+Something+New" alt="Typing SVG" />
+</a>
 
-- 💬 Ask me about **C++ ,DSA , C, PYTHON , JAVASCRIPT , HTML, CSS**
+<br/>
 
-- ⚡ Fun fact **I think I am Unpredictable.**
+<img src="https://komarev.com/ghpvc/?username=byteom&label=Profile%20Views&color=4f46e5&style=for-the-badge" alt="profile views"/>
 
-- ## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<br/><br/>
 
-### Blogs posts
+<a href="https://twitter.com/om_singh_01" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+<a href="https://linkedin.com/in/byteom" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://dev.to/byteom" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+<a href="https://medium.com/@byteom" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://auth.geeksforgeeks.org/user/byteom" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+<a href="https://instagram.com/aroh_singh_rathour" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+- 🔭 Building full-stack web applications and learning to deploy them the right way on the cloud
+- 🌱 Currently sharpening skills in **modern JS frameworks, full-stack architecture, and AWS**
+- 💬 Ask me about **C, C++, Python, JavaScript, HTML/CSS, or Data Structures & Algorithms**
+- ⚡ Fun fact: I'm most productive at the exact moment a deadline stops being theoretical
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js&theme=dark" />
+
+<br/><br/>
+
+**Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+
+<br/><br/>
+
+**Cloud, Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github&theme=dark" />
+
+</div>
+
+<br/>
+
+## 😄 Random Dev Joke
+
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=byteom&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=22D3EE&text_color=9CA3AF&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteom&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF&langs_count=8" width="41%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=byteom&background=00000000&border=00000000&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=6B7280&hide_border=true" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=byteom&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="90%"/>
+
+</div>
+
+<br/>
+
+## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/byteom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="byteom" height="30" width="40" /></a>
-<a href="https://twitter.com/om_singh_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="om_singh_01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/byteom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="byteom" height="30" width="40" /></a>
-<a href="https://instagram.com/aroh_singh_rathour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aroh_singh_rathour" height="30" width="40" /></a>
-<a href="https://medium.com/@byteom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@byteom" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/byteom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="byteom" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=byteom&show_icons=true&locale=en&layout=compact" alt="byteom" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=byteom&show_icons=true&locale=en" alt="byteom" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=byteom&" alt="byteom" /></p>
-
- 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:4F46E5&height=120&section=footer" width="100%"/>
+</div>
